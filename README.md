@@ -20,7 +20,7 @@
 
 [🚀 Live Demo](https://genai-data-automation-speedrun.vercel.app/) &nbsp;·&nbsp;
 [📂 Repository](https://github.com/thestethoguy/genai-data-automation-speedrun) &nbsp;·&nbsp;
-[🎥 Demo Video](#-live-demo--video-walkthrough) &nbsp;·&nbsp;
+[🎥 Demo Video](https://drive.google.com/file/d/1OKSVzNBhG5dThGkh39dqMArvIDQXSpCN/view?usp=drive_link) &nbsp;·&nbsp;
 [👤 Connect](#-author--connect)
 
 <br/>
