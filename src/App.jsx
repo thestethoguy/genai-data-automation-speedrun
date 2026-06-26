@@ -251,13 +251,24 @@ function SiteFooter() {
             © {year} Synapse AI, Inc. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
-            {['Twitter', 'GitHub', 'LinkedIn'].map(s => (
-              <a key={s} href={`#${s.toLowerCase()}`}
-                 aria-label={`Synapse AI on ${s}`}
-                 className="text-xs text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors duration-[160ms]">
-                {s}
-              </a>
-            ))}
+            <a
+              href="https://github.com/thestethoguy"
+              aria-label="Synapse AI on GitHub"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors duration-[160ms]"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://www.linkedin.com/in/amanaaryan/"
+              aria-label="Synapse AI on LinkedIn"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs text-[var(--color-text-muted)] hover:text-[var(--color-text)] transition-colors duration-[160ms]"
+            >
+              LinkedIn
+            </a>
           </div>
         </div>
       </div>
